@@ -1,2 +1,2 @@
-# hypercubegame.github.io
-Sliding game..
+# cubicgame.github.io
+Sliding puzzle.....
